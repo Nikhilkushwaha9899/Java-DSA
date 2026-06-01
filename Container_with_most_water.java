@@ -16,6 +16,12 @@ class Funtion{
             count++;
         }
         int area=pr1*count;
+        if(count == 0){
+            area=1;
+        }
+        else{
+            area=pr1*count;
+        }
         sc.close();
         return area;
     }
