@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class Search_in_a_rotated_sorted_array {
  public int search(int[] nums, int target) {
