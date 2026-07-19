@@ -1,1 +1,1 @@
-nums
+System.out.print(newArr[i] + " ");
