@@ -16,7 +16,6 @@ public class Valid_Perfect_Square {
         }
         return flag;
     }
-
     public static void main(String[] args) {
         Valid_Perfect_Square vps = new Valid_Perfect_Square();
         int num = 2147483647;
