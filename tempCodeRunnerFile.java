@@ -1,3 +1,5 @@
-if (le == ri) {
-            l2.add(l.get(le));
-        }
+ // for(int i:l){
+        //     if(l.get(i).equals(val)){
+        //         l.remove(i);
+        //     }
+        // }
