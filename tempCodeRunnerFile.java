@@ -1,1 +1,1 @@
-n
+System.out.println(hr.rob(nums));
