@@ -1,1 +1,1 @@
-System.out.println(hr.rob(nums));
+k
